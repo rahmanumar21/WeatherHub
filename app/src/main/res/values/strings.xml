@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherHub</string>
+    <string name="registration_form_text">Don\'t have an account? Sign Up</string>
+    <string name="login_button_text">Login</string>
+    <string name="password_form_text">Password</string>
+    <string name="email_form_text">Email</string>
+    <string name="app_logo">App Logo</string>
+    <string name="login_form_text">Already have an account? Login</string>
+    <string name="register_form_text">Register</string>
+    <string name="register_password_form_text">Password</string>
+    <string name="register_email_form_text">Email</string>
+    <string name="register_full_name_form_text">Full Name</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search_by_city_button">Search</string>
+    <string name="welcome_to_dashboard">WeatherHub</string>
+    <string name="app_slogan">Prepare your daily activities</string>
+    <string name="dashboard_user_email">john.doe@example.com</string>
+    <string name="dashboard_user_name">John Doe</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="logout_button_text">Logout</string>
+</resources>
