@@ -40,7 +40,8 @@ WeatherHub is a simple weather forecast application that provides weather inform
 ### Screenshots
 
 - Splash Screen
-![Screenshot 1](screenshots/Splash Screen.jpg)
+![Splash Screen](screenshots/Splash%20Screen.jpg)
+
 
 
 
