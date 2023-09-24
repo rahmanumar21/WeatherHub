@@ -37,3 +37,10 @@ WeatherHub is a simple weather forecast application that provides weather inform
 - Enter the city name and click the "Search" button for the latest weather information.
 - Allow location permission to detect your current location weather automatically.
 
+### Screenshots
+
+- Splash Screen
+![Screenshot 1](screenshots/Splash Screen.jpg)
+
+
+
