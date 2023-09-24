@@ -6,6 +6,8 @@ WeatherHub is a simple weather forecast application that provides weather inform
 
 - Bcrypt algorithm for User Account Security.
 - Local user registration and login system connected to Local Database (SQLite).
+- Prevents Duplicate Registrations: The application ensures that if a user attempts to register with an email that is already registered, it will be rejected, and a message 
+  indicating that the email is already registered will be displayed.
 - Persistent login session.
 - Dashboard displaying user profile and weather forecast data.
 - Integration with [OpenWeatherMap API](https://openweathermap.org/) for weather forecast data.
